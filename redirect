@@ -1,0 +1,65 @@
+{
+  "version": "1.0",
+  "rules": [
+    {
+      "description": "Google加速",
+      "origin": "ajax.googleapis.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "ajax.loli.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "fonts.googleapis.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "fonts.loli.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "fonts.gstatic.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "gstatic.loli.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "themes.googleusercontent.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "themes.loli.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "secure.gravatar.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "gravatar.loli.net",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+  ]
+}
