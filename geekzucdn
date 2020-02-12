@@ -1,0 +1,77 @@
+{
+  "version": "1.0",
+  "rules": [
+    {
+      "description": "",
+      "origin": "//fonts.googleapis.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "//fonts.geekzu.org",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "//ajax.googleapis.com/",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "//gapis.geekzu.org/ajax/",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "//ajax.googleapis.com/ajax/",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "//gapis.geekzu.org/ajax/ajax/",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "//fonts.gstatic.com/",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "//gapis.geekzu.org/g-fonts/",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "//themes.googleusercontent.com/",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "//gapis.geekzu.org/g-themes/",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "//secure.gravatar.com/avatar/",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "//sdn.geekzu.org/avatar/",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+  ]
+}
